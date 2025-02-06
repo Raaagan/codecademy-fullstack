@@ -1,5 +1,5 @@
 <h1 align="center">Broadway</h1>
-<img src = "https://github.com/Raaagan/codecademy-fullstack/blob/main/broadway/resources/images/broadway.gif" align="center" width="auto" height="auto"/>
+<img src = "https://github.com/Raaagan/codecademy-fullstack/blob/main/broadway/resources/images/broadway.gif" align="center"/>
 
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#technology-stack">Tech Stack</a></p>
 
