@@ -19,7 +19,7 @@ The path is divided into several topics and learning goals. Each topic addresses
 - Improved Styling with CSS
   - [Paint Store](paint_store)
   - [Typography](typography)
-  - [Challenge Project: Build Your Own Cheatsheet](build_your_own_cheeatsheet)
+  - [Challenge Project: Build Your Own Cheatsheet](build_your_own_cheatsheet)
   - [The Summit](the_summit)
   - [Fresh Deals: Blueberries](fresh_blueberries)
   - [Challenge Project: Build A Website Design System](build_website_design_system)
