@@ -1,9 +1,13 @@
 <h1 align="center">Fashion Blog</h1>
+<p align="center">
+<img width="auto" height="auto" src="https://github.com/Raaagan/codecademy-fullstack/blob/main/fashion_blog/resources/images/fashion_blog.gif"/>
+</p>
+
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
 
-Project #1 from Codecademy's Full Stack Engineer Career Path
+Project from Codecademy's Full Stack Engineer Career Path
 
 **Description**: Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!
 
