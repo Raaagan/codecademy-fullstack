@@ -1,0 +1,17 @@
+$ git show HEAD portrait.txt
+$ git checkout HEAD portrait.txt
+$ git add portrait.txt
+$ git commit -m "add goatee back"
+[master d4e2cb8] add goatee back
+1 file changed, 1 file insertion(+), 1 deletion(-)
+$ git add .
+$ git commit -m "changed dates"
+[master 26658e6] changed dates
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+$ git add .
+$ git reset HEAD house.txt
+Unstaged changes after reset:
+M       house.txt
+$ git commit -m "remove house.txt form stage area"
+[master 230b8fe] remove house.txt form stage area
+ 2 files changed, 3 insertions(+), 1 deletion(-)
