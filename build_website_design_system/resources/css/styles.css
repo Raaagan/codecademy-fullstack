@@ -1,0 +1,241 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.ice-cold {
+  background-color: #a0d2eb;
+  color: #000;
+}
+
+.freeze-purple {
+  background-color: #e5eaf5;
+  color: #000;
+}
+
+.medium-purple {
+  background-color: #d0bdf4;
+}
+
+.purple-pain {
+  background-color: #8458b3;
+  color: #fff;
+}
+
+.heavy-purple {
+  background-color: #494d5f;
+  color: #fff;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nunito-sans {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.source-code-pro {
+  font-family: "Source Code Pro", monospace;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+
+/*BUTTONS*/
+/*button 3D*/
+.button-box {
+  display: inline-block;
+  font-weight: 700;
+  text-align: center;
+  color: #f7dfca;
+  border: 2px solid #a8662c;
+  text-shadow: 2px 3px 4px black;
+  box-shadow: 2px 4px 6px black;
+  background: radial-gradient(#90e3f5, #088ca8, #074857);
+  width: 20%;
+  margin: 40px 20px;
+  transform: perspective(500px) rotateY(-15deg);
+  transition: 0.5s;
+  position: relative;
+  overflow: hidden;
+}
+
+.button-box:hover {
+  transform: perspective(500px) rotateY(15deg);
+  background: radial-gradient(#074857, #088ca8, #90e3f5);
+  text-shadow: -2px 3px 4px black;
+  box-shadow: -2px 4px 6px black;
+  cursor: pointer;
+}
+
+.button-box::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, white, transparent);
+  left: -100%;
+  transition: 0.5s;
+}
+
+.button-box:hover::before {
+  left: 100%;
+}
+
+.button-box:active {
+  background: radial-gradient(#f7dfca, #f5a056, #a8662c);
+  transition: 0.5s;
+}
+
+/*button gradient static*/
+.button-static {
+  display: inline-block;
+  font-weight: 700;
+  border: 2px solid #a8662c;
+  color: #f7dfca;
+  text-shadow: 2px 3px 4px black;
+  background: radial-gradient(#d742a8, #5d04e2, #074857);
+  border-radius: 5px;
+  box-shadow: 0px 5px #a8662c;
+  text-align: center;
+  width: 20%;
+  margin: 40px 20px;
+}
+
+.button-static:hover {
+  cursor: pointer;
+  background: radial-gradient(#5d04e2, #d742a8);
+}
+
+.button-static:active {
+  margin-top: 5px;
+  box-shadow: 0px 2px;
+  background: radial-gradient(#f7dfca, #f5a056, #a8662c);
+}
+
+/*2d button*/
+.button-flat {
+  display: inline-block;
+
+  font-weight: 700;
+  border: 2px solid #a8662c;
+  color: #f7dfca;
+  text-shadow: 2px 3px 4px black;
+  background-color: #088ca8;
+  border-radius: 5px;
+  box-shadow: 0px 5px #a8662c;
+  text-align: center;
+  width: 20%;
+  margin: 40px 20px;
+}
+
+.button-flat:hover {
+  cursor: pointer;
+  background-color: #90e3f5;
+}
+
+.button-flat:active {
+  margin-top: 5px;
+  box-shadow: 0px 2px;
+  background-color: #f5a056;
+}
+
+/*Outlined Button*/
+.button {
+  display: inline-block;
+  font-family: "Exo-2", sans-serif;
+  font-weight: 700;
+  border: 2px solid #d742a8;
+  color: #a8662c;
+  border-radius: 5px;
+  background-color: none;
+  box-shadow: 0px 5px #5d04e2;
+  text-align: center;
+  width: 20%;
+  margin: 40px 20px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.button:active {
+  margin-top: 5px;
+  box-shadow: 0 0;
+}
+
+a:visited {
+  color: #074857;
+}
+
+a:hover {
+  color: #90e3f5;
+}
+
+a:active {
+  color: #f48320;
+}
+
+.oval {
+  border-radius: 2em;
+}
+
+.round {
+  border-radius: 30%;
+}
