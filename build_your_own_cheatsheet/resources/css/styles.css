@@ -1,0 +1,33 @@
+body {
+  font-family: Calibri, Futura;
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(243, 24, 185);
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: rgb(196, 165, 227);
+}
+
+td {
+  border-top: 1px solid rgb(191, 161, 219);
+  text-align: center;
+}
+
+.code {
+  font-family: monospace;
+  background-color: rgb(249, 249, 246);
+}
