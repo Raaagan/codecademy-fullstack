@@ -1,8 +1,9 @@
 <h1 align="center">New York City Blog</h1>
+
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#Requirements">Requirements</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
-Project #3 from Codecademy's Full Stack Engineer Career Path
+Project from Codecademy's Full Stack Engineer Career Path
 
 **Description:** After researching New York City, you decide to create a blog for your viewers who want to know more about the city. It’s time to create a blog to show off how amazing the Big Apple is.
 
