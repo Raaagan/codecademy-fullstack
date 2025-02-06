@@ -1,4 +1,7 @@
 <h1 align="center">Wine Festival</h1>
+<p align="center">
+<img width="auto" height="auto" src="https://github.com/Raaagan/codecademy-fullstack/blob/main/wine_festival/resources/images/wine_schedule.gif"/>
+</p>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
