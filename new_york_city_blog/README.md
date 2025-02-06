@@ -1,5 +1,9 @@
 <h1 align="center">New York City Blog</h1>
 
+<p align="center">
+<img width="auto" height="auto" src="https://github.com/Raaagan/codecademy-fullstack/blob/main/new_york_city_blog/resources/images/new_york_city.gif"/>
+</p>
+
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#Requirements">Requirements</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
