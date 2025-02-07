@@ -1,6 +1,6 @@
-# codecademy-fullstack
+# Codecademy Full-Stack
 Repository for Full-Stack Engineer projects from Codecademy
-The path is divided into several topics and learning goals. Each topic addresses the projects made on.
+The path is divided into several topics and learning goals. Each topic addresses the projects made.
 
 - Introduction to HTML basics
   - [Fashion Blog](fashion_blog)
